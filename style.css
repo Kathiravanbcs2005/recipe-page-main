@@ -1,0 +1,50 @@
+body{
+    background-color: hsl(30, 54%, 90%);
+    
+}
+img{
+    height: 400px;
+    width: 400px;
+}
+.all{
+    margin: 300px 800px;
+    height: 1900px;
+    border: 2px ;
+    background-color: white;
+    border-radius: 50px;
+    padding: 50px;
+    font-family:young serif;
+    width: 400px;
+}
+
+h1{
+    color: black;
+}
+
+h2{
+    color:  hsl(14, 45%, 36%);
+}
+
+h4{
+    color:hsl(300, 93%, 32%);
+}
+
+#pre{
+       border: 2px;
+       background-color: lavenderblush;
+       padding: 10px;
+       line-height: 35px;
+
+}
+table td:nth-of-type(even){
+    color: hsl(14, 45%, 36%);
+}
+
+table{
+    width: 100%;
+    padding-left: 50px;
+}
+
+.attribution{
+    font-size: 15px;
+}
